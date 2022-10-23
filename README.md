@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaac30&show_icons=true&theme=cobalt&locale=en" alt="mostafaac30" /></p>
 
-.
